@@ -1,0 +1,2 @@
+serviceClass: com.priocept.jcr.client.JcrService
+path: DBF6683AB8B7B78E657725B76B4DFD94.gwt.rpc

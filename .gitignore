@@ -1,0 +1,12 @@
+.settings
+.project
+.classpath
+bin
+target
+
+.faces-config.xml.faceside
+.faces-config.xml.jsfdia
+
+.directory
+*~
+*.class

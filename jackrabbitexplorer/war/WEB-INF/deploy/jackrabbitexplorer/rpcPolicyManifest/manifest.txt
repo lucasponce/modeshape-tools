@@ -1,0 +1,3 @@
+# Module jackrabbitexplorer
+# RPC service class, partial path of RPC policy file
+com.priocept.jcr.client.JcrService, DBF6683AB8B7B78E657725B76B4DFD94.gwt.rpc
